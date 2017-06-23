@@ -9,11 +9,11 @@ header:
   caption:
 excerpt: 'A group created aiming for a friendly environment and designed to develop of a new family of tools for data exploration in cosmology.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.4.1">Latest release v4.4.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/amada.png
+    alt: "AMADA"
+    title: "AMADA"
+    excerpt: "My sweet amada"
+    url: "/_pages/projects/01_amada"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
