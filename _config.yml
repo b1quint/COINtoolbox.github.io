@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "BQuint Home"
+title                    : "COsmostatistics INitiative (COIN)"
 title_separator          : "-"
 name                     : "Bruno Quint"
-description              : "Dummy page"
+description              : "A friendly environment to develop tools for data exploration in cosmology"
 url                      : "https://b1quint.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "b1quint/b1quint.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
