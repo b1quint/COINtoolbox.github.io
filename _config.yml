@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "BQuint Home"
+title                    : "The COIN webpage"
 title_separator          : "-"
-name                     : "Bruno Quint"
-description              : "Dummy page"
-url                      : "https://b1quint.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : ""
+description              : "The COsmostatistics INitiative"
+url                      : "http://cointoolbox.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "b1quint/b1quint.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cointoolbox/cointoolbox.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Bruno Quint"
-  avatar           : "assets/images/bio-quint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/bio-bquint.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Resident Astronomer at SOAR Telescope"
   location         : "La Serena, Chile"
   email            :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://b1quint.github.io"
   google_plus      :
   keybase          :
   instagram        :
