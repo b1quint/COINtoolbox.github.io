@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "The COsmostatistics INitiative (COIN)"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Bruno Quint"
+description              : "An amazing website about COIN."
 url                      : "https://b1quint.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "b1quint/cointoolbox.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Bruno Quint"
+  avatar           : "/assets/images/coin_people/bquint.jpg" 
+  bio              : "Resident Astronomer at the SOAR Telescope."
+  location         : "La Serena, Chile"
   email            :
   uri              :
   bitbucket        :

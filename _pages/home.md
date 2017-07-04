@@ -7,7 +7,7 @@ header:
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: '.....'
+excerpt: "A very short description about COIN."
 
 feature_row:
 
