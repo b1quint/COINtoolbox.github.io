@@ -53,6 +53,13 @@ feature_row:
     url: "/projects/dracula/"
     btn_label: "Learn More"
 
+  - image_path: /assets/images/coin_projects/TeddyHappy.png
+    alt: "Teddy Happy"
+    title: "Teddy Happy"
+    excerpt: "A brief description about Teddy Happy."
+    url: "/projects/teddy_happy/"
+    btn_label: "Learn More"  
+
   - image_path: /assets/images/coin_projects/AGNlogit.png
     alt: "AGNLogit"
     title: "AGNLogit"
