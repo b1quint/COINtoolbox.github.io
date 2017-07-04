@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teddy Happy"
-permalink: /projects/TeddyHappy/
+permalink: /projects/teddy_happy/
 author_profile: false
 ---
 
