@@ -5,4 +5,4 @@ permalink: /about/
 author_profile: false
 ---
 
-This is my about file
+This is my about file-description about COIN
