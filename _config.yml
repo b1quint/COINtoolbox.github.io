@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The COsmostatistics INitiative (COIN)"
+title                    : "The COsmostatistics INitiative"
 title_separator          : "-"
 name                     : "Bruno Quint"
 description              : "An amazing website about COIN."
