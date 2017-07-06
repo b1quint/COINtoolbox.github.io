@@ -4,11 +4,12 @@ permalink: /
 header:
   overlay_color: "#36578C"
   overlay_image: /assets/images/coin_logo/background.svg
-  cta_label: "![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)]"
-  cta_url: "http://dx.doi.org/10.5281/zenodo.16376"
+  #cta_label: ""
+  #cta_url: "http://dx.doi.org/10.5281/zenodo.16376"
   caption:
 excerpt: "COIN, a friendly environment designed to develop<br />
-          a new family of tools for data exploration in astronomy.<br />"
+          a new family of tools for data exploration in astronomy.<br />
+          [![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)]](http://dx.doi.org/10.5281/zenodo.16376)"
 
 feature_row:
 
