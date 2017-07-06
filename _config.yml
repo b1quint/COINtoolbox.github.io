@@ -244,3 +244,9 @@ defaults:
       comments: false # true
       share: false
       related: false
+  - scope:
+      path: "/programs/*/"
+      tyoe: archive
+    values:
+      sidebar:
+        nav: progbar
