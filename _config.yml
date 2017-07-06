@@ -246,7 +246,7 @@ defaults:
       related: false
   - scope:
       path: "/programs/*/"
-      tyoe: archive
+      type: archive
     values:
       sidebar:
         nav: progbar
