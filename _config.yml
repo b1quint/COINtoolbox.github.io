@@ -245,8 +245,7 @@ defaults:
       share: false
       related: false
   - scope:
-      path: "/programs/*/"
-      type: archive
+      path: "/programs/*"
     values:
       sidebar:
         nav: progbar

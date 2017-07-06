@@ -14,9 +14,9 @@ progbar:
     children:
     - title: "CRP #1 - August, 2014<br /> Lisbon, Portugal<br /><br />"
       url: /programs/crp1/
-    - title: "CRP #2 - October, 2015 Isle of Wight, UK"
+    - title: "CRP #2 - October 2015<br /> Isle of Wight, UK<br /><br />"
       url: /programs/crp2/
-    - title: "CRP #3 - August, 2016 Budapest, Hungary"
+    - title: "CRP #3 - August, 2016<br /> Budapest, Hungary<br /><br />"
       url: /programs/crp3/
-    - title: "CRP #4 - August, 2017 Clermont Ferrand, France"
+    - title: "CRP #4 - August, 2017<br /> Clermont Ferrand, France<br /><br />"
       url: /programs/crp4/
