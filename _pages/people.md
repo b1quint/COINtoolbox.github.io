@@ -2,7 +2,6 @@
 layout: archive
 title: "People"
 permalink: /people/
-author_profile: false
 ---
 
 [Alberto Krone-Martins](https://github.com/algolkm){: .btn .btn-default}
