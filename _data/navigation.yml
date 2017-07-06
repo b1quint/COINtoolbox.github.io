@@ -12,13 +12,13 @@ progbar:
   - title: "Residence Programs"
     url: /programs/
     children:
-    - title: "CRP #1 - August, 2014<br /> Lisbon, Portugal<br /><br />"
+    - title: "CRP #1 2014 Portugal<br /><br />"
       url: /programs/crp1/
-    - title: "CRP #2 - October 2015<br /> Isle of Wight, UK<br /><br />"
+    - title: "CRP #2 2015 UK<br /><br />"
       url: /programs/crp2/
-    - title: "CRP #3 - August, 2016<br /> Budapest, Hungary<br /><br />"
+    - title: "CRP #3 2016 Hungary<br /><br />"
       url: /programs/crp3/
-    - title: "CRP #4 - August, 2017<br /> Clermont Ferrand, France<br /><br />"
+    - title: "CRP #4 2017 France<br /><br />"
       url: /programs/crp4/
 
 sidebar_projects:
@@ -40,3 +40,5 @@ sidebar_projects:
       url: /projects/glm_ii
     - title: GLM III
       url: /projects/glm_iii
+    - title: Teddy Happy
+      url: /projects/teddy_happy
