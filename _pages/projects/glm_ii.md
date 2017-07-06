@@ -14,4 +14,14 @@ perspective.  Applications range from modeling star formation activity
 regression), photometric redshifts (gamma regression), exoplanets multiplicity
 (Poisson regression), and so forth.
 
-https://cosmostatisticsinitiative.shinyapps.io/CosmoPhotoz/
+---
+
+ This interface provides a simple control for the R version of the CosmoPhotoz
+ code. Beyond offering the control of the most used functionalities of the code,
+ this interface provides graphical overviews of the results for diagnostics of
+ the method (each tab is a different graphical representation of the analysis
+ result).
+
+ For more, access the link bellow:
+
+ https://cosmostatisticsinitiative.shinyapps.io/CosmoPhotoz/
