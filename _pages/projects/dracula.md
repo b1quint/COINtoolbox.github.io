@@ -4,6 +4,8 @@ title: "Dimensionality Reduction And Clustering for Unsupervised Learning in Ast
 [![arxiv](http://img.shields.io/badge/arXiv-1512.06810-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1512.06810)"
 permalink: /projects/dracula/
 author_profile: false
+sidebar:
+  nav: sidebar_projects
 ---
 
  DRACULA classifies objects using dimensionality reduction and clustering. The

@@ -3,6 +3,8 @@ layout: archive
 title: "CosmoABC"
 permalink: /projects/cosmoabc/
 author_profile: false
+sidebar:
+  nav: sidebar_projects
 ---
 
 Approximate Bayesian Computation (ABC) enables the statistical analysis of
@@ -17,4 +19,4 @@ personalized prior distributions, summary statistics and distance functions.
 
 <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1504.06129" class="btn btn-primary">Link to ADS</a>
 <a href="http://cosmoabc.readthedocs.org/en/latest/" class="btn btn-primary">Tutorial</a>
-<a href="https://pypi.python.org/pypi/CosmoABC" class="btn btn-primary">Package</a> 
+<a href="https://pypi.python.org/pypi/CosmoABC" class="btn btn-primary">Package</a>

@@ -3,6 +3,8 @@ layout: archive
 title: "GLM I - Binomial Regression"
 permalink: /projects/glm_i/
 author_profile: false
+sidebar:
+  nav: sidebar_projects
 ---
 [![arxiv](http://img.shields.io/badge/arXiv-1409.7696-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1409.7696)
 

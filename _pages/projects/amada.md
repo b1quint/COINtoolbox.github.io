@@ -4,6 +4,8 @@ title: "Approximate Bayesian Computation
 [![arxiv](http://img.shields.io/badge/arXiv-1504.06129-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1504.06129)"
 permalink: /projects/amada/
 author_profile: false
+sidebar:
+  nav: sidebar_projects
 ---
 
  AMADA allows an iterative exploration and information retrieval of

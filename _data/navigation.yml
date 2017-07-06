@@ -20,3 +20,13 @@ progbar:
       url: /programs/crp3/
     - title: "CRP #4 - August, 2017<br /> Clermont Ferrand, France<br /><br />"
       url: /programs/crp4/
+
+sidebar_projects:
+  - title: "COIN Residence Program 2017"
+    children:
+    - title: AGNgmm
+      url: /projects/AGNgmm
+    - title: AGNLogit
+      url: /projects/AGNLogit
+    - title: AMADA
+      url: /projects/amada

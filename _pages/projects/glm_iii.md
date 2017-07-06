@@ -3,6 +3,8 @@ layout: archive
 title: "GLM III"
 permalink: /projects/glm_iii/
 author_profile: false
+sidebar:
+  nav: sidebar_projects
 ---
 
 Statistical methods play a central role  to fully exploit astronomical
