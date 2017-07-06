@@ -3,8 +3,6 @@ layout: archive
 title: "About"
 permalink: /about/
 author_profile: false
-sidebar:
-  nav: "docs"
 ---
 
 ## Methodology and software for cosmology

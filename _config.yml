@@ -239,8 +239,14 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false # true
+      share: false
+      related: false
+  # sidebar docs
+  - scope:
+      path: "/*/"
+      values:
+        author_profile: false
+        nav: "docs"
