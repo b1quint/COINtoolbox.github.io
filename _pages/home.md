@@ -4,11 +4,11 @@ permalink: /
 header:
   overlay_color: "#36578C"
   overlay_image: /assets/images/coin_logo/background.svg
-  # cta_label: "<i class='fa fa-download'></i> Install Now"
-  # cta_url: "/docs/quick-start-guide/"
+  cta_label: "![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)]"
+  cta_url: "http://dx.doi.org/10.5281/zenodo.16376"
   caption:
-excerpt: "A very short description about COIN.<br />
-          [![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)](http://dx.doi.org/10.5281/zenodo.16376)"
+excerpt: "COIN, a friendly environment designed to develop<br />
+          a new family of tools for data exploration in astronomy.<br />"
 
 feature_row:
 

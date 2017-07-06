@@ -12,7 +12,7 @@ progbar:
   - title: "Residence Programs"
     url: /programs/
     children:
-    - title: "CRP #1 - August, 2014<br /> Lisbon, Portugal<br />"
+    - title: "CRP #1 - August, 2014<br /> Lisbon, Portugal<br /><br />"
       url: /programs/crp1/
     - title: "CRP #2 - October, 2015 Isle of Wight, UK"
       url: /programs/crp2/
