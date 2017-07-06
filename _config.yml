@@ -250,3 +250,8 @@ defaults:
       values:
         author_profile: false
         nav: "docs"
+  - scope:
+      path: "/*/"
+      values:
+        author_profile: false
+        nav: "docs"
