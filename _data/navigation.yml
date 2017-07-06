@@ -2,5 +2,25 @@
 main:
   - title: "About"
     url: /about/
+    children:
   - title: "People"
     url: /people/
+  - title: "Residence Programs"
+    url: /programs/
+
+docs:
+  - title: "About"
+    url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Residence Programs"
+    url: /programs/
+    children:
+    - title: "CRP #1 - August, 2014 - Lisbon, Portugal"
+      url: /crp1/
+    - title: "CRP #2 - October, 2015 - Isle of Wight, UK"
+      url: /crp2/
+    - title: "CRP #3 - August, 2016 - Budapest, Hungary"
+      url: /crp3/
+    - title: "CRP #4 - August, 2017 - Clermont Ferrand, France"
+      url: /crp4/
