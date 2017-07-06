@@ -32,3 +32,11 @@ sidebar_projects:
       url: /projects/amada
     - title: CosmoABC
       url: /projects/cosmoabc
+    - title: DRACULA
+      url: /projects/dracula
+    - title: GLM I
+      url: /projects/glm_i
+    - title: GLM II
+      url: /projects/glm_ii
+    - title: GLM III
+      url: /projects/glm_iii

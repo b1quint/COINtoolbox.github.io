@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Approximate Bayesian Computation
-[![arxiv](http://img.shields.io/badge/arXiv-1504.06129-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1504.06129)"
+title: "Analysis of Muldimensional Astronomical DAtasets (AMADA)"
 permalink: /projects/amada/
 author_profile: false
 sidebar:
   nav: sidebar_projects
 ---
-
+[![arxiv](http://img.shields.io/badge/arXiv-1504.06129-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1504.06129)
  AMADA allows an iterative exploration and information retrieval of
  high-dimensional data sets. This is done by performing a hierarchical
  clustering analysis for different choices of correlation matrices and by doing

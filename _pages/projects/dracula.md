@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Dimensionality Reduction And Clustering for Unsupervised Learning in Astronomy (DRACULA)
-[![arxiv](http://img.shields.io/badge/arXiv-1512.06810-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1512.06810)"
+title: "Dimensionality Reduction And Clustering for Unsupervised Learning in Astronomy (DRACULA)"
 permalink: /projects/dracula/
 author_profile: false
 sidebar:
   nav: sidebar_projects
 ---
+
+[![arxiv](http://img.shields.io/badge/arXiv-1512.06810-lightgrey.svg?style=plastic)](http://arxiv.org/abs/1512.06810)
 
  DRACULA classifies objects using dimensionality reduction and clustering. The
  code has an easy interface and can be applied to separate several types of
