@@ -2,6 +2,8 @@
 layout: archive
 title: "COIN Residence Program #1"
 permalink: /programs/crp1/
+sidebar:
+  nav: progbar
 ---
 
 ## August, 2014 - Lisbon, Portugal
