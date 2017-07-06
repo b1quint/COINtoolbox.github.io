@@ -244,10 +244,3 @@ defaults:
       comments: false # true
       share: false
       related: false
-  # sidebar docs
-  - scope:
-      path: "/*/"
-      values:
-        author_profile: false
-        sidebar:
-          nav: "docs"

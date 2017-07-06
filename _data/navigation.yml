@@ -8,11 +8,7 @@ main:
   - title: "Residence Programs"
     url: /programs/
 
-docs:
-  - title: "About"
-    url: /about/
-  - title: "People"
-    url: /people/
+progbar:
   - title: "Residence Programs"
     url: /programs/
     children:
