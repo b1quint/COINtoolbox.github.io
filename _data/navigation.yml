@@ -30,3 +30,5 @@ sidebar_projects:
       url: /projects/AGNLogit
     - title: AMADA
       url: /projects/amada
+    - title: CosmoABC
+      url: /projects/cosmoabc
