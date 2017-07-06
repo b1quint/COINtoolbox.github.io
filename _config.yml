@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Bruno Quint"
-  avatar           : "/assets/images/coin_people/bquint.jpg" 
+  avatar           : "/assets/images/coin_people/bquint.jpg"
   bio              : "Resident Astronomer at the SOAR Telescope."
   location         : "La Serena, Chile"
   email            :
