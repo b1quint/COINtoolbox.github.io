@@ -244,6 +244,7 @@ defaults:
       comments: false # true
       share: false
       related: false
+  # Sidebar -- not really working (yet)
   - scope:
       path: "/programs/*"
     values:

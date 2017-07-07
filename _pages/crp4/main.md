@@ -3,7 +3,7 @@ layout: archive
 title: "COIN Residence Program #4"
 permalink: /programs/crp4/
 sidebar:
-  nav: progbar
+  nav: sidebar_programs
 ---
 
 ## August, 2017 - Clermont Ferrand, France

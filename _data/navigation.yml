@@ -8,7 +8,7 @@ main:
   - title: "Residence Programs"
     url: /programs/
 
-progbar:
+sidebar_programs:
   - title: "Residence Programs"
     url: /programs/
     children:

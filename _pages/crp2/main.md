@@ -3,7 +3,7 @@ layout: archive
 title: "COIN Residence Program #2"
 permalink: /programs/crp2/
 sidebar:
-  nav: progbar
+  nav: sidebar_programs
 ---
 
 ## October, 2015 - Isle of Wight, UK"
