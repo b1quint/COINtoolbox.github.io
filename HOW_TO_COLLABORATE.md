@@ -95,3 +95,9 @@
    sidebar:
      nav: name_of_the_sidebar
    ``` 
+   
+   ## Page update
+   
+   The GitHub server and the Jekyll machine usually take a while to update. That 
+   means that every time you push a commit with an updated version of the page, 
+   you can take a break for a coffee or something like that. Be pacient. 
