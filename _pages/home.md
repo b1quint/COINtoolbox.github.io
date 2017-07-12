@@ -77,7 +77,7 @@ feature_row:
     btn_label: "Learn More"
 
 intro:
-  - excerpt: 'Check more about COIN Toolbox on &nbsp; [<i class="fa fa-github"></i> GitHub](https://github.com/COINtoolbox){: .btn .btn--inversed}'
+  - excerpt: 'Check more about COIN Toolbox on &nbsp; [<i class="fa fa-github"></i> GitHub](https://github.com/COINtoolbox){: .btn .btn--inverse}'
 ---
 
 {% include feature_row id="intro" type="center" %}
