@@ -9,7 +9,8 @@ header:
   caption:
 excerpt: "COIN, a friendly environment designed to develop<br />
           a new family of tools for data exploration in astronomy.<br />
-          [![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)](http://dx.doi.org/10.5281/zenodo.16376)"
+          [![DOI](https://zenodo.org/badge/7175/COINtoolbox/COINtoolbox.github.io.svg)](http://dx.doi.org/10.5281/zenodo.16376)<br />
+          [<i class="fa fa-github"></i>Check on GitHub](https://github.com/COINtoolbox){: .btn .btn--inverse}"
 
 feature_row:
 
