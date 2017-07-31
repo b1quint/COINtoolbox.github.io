@@ -15,7 +15,8 @@ feature_row:
 
   - image_path: /assets/images/coin_projects/GLMI_500x300.png
     alt: "GLM I"
-    title: "The overlooked potential of Generalized Linear Models in astronomy, I: Binomial regression"
+    title: "GLM I"
+    excerpt: "The overlooked potential of Generalized Linear Models in astronomy, I: Binomial regression"
     url: "/projects/glm_i/"
     btn_label: "Learn More"
 
